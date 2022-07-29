@@ -5,7 +5,7 @@ import { SkillsSection } from "./SkillsSection";
 
 export const Resume = (props) => {
   return (
-    <div className="p-20">
+    <div className="pt-20 pl-40">
       <div className="grid grid-cols-4">
         <div className="col-span-3">
           <ProfileSection />
