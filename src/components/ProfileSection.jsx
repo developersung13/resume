@@ -10,7 +10,7 @@ export const ProfileSection = (props) => {
         </div>
         <div className="col-span-4">
           <div className="font-bold text-4xl">Ashley Lopez</div>
-          <div className="text-red-500 text-xl mt-2">Cook</div>
+          <div className="text-green-500 text-xl mt-2">Cook</div>
           <div className="text-gray-500 mt-4">
             <div>
               <i className="fa-solid fa-location-dot"></i> 1300 McDougal
