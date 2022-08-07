@@ -1,2 +1,3 @@
 # 📑 Resume
-This website is a single page for learning Tailwind CSS.
+developersung13.github.io/resume/
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
